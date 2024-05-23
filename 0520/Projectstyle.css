@@ -1,0 +1,108 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ section {
+
+    width: 1920px;
+    height: 900px;
+    background-color: #F2E9D8;
+}
+ .header {
+     display: flex;
+     flex-direction: row;
+
+ }
+
+.top_logo {
+    width: 130px;
+    height: 40px;
+    margin: 31px 756px 31px 320px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    text-decoration-line: none;
+    font-weight: bolder;
+    color: black;
+    margin: 41px 49px 41px 0px;
+    gap: 30px;
+
+}
+
+.button {
+    position: absolute;
+    display: flex;
+    width: 140px;
+    height: 50px;
+    border-radius: 40px;
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    background-color: #d97652;
+    justify-content: center;
+    align-items: center;
+    margin: 26px 320px 26px 49px;
+}
+
+
+.cont {
+    display: flex;
+}
+
+ h1 {
+    width: 695px;
+    height: 120px;
+    margin: 200px 170px 40px 320px;
+    font-weight: bolder;
+    font-size: 40px;
+    line-height: 60px;
+    color: black;
+}
+
+.explain {
+    width: 440px;
+    height: 86px;
+    margin: 40px 445px 40px 320px;
+    font-size: 16px;
+    color: black;
+    line-height: 20px;
+
+}
+
+.button2 {
+    position: absolute;
+    display: flex;
+    width: 140px;
+    height: 50px;
+    border-radius: 40px;
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    background-color: #d97652;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 725px 262px 320px;
+
+}
+
+.bigcat {
+    width: 415px;
+    height: 890px;
+    margin: 32px 320px 0px 170px;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    height: 160px;
+}
+
+.bottom_logo {
+    width: 226px;
+    height: 70px;
+    margin: 45px 826px 45px 320px;
+}
+
